@@ -1,0 +1,4 @@
+I = 0;
+while I<1000 :
+    print("i am sorry ")
+    I+=1;
